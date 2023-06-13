@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgba(109, 153, 224, 0.8);
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    text-shadow: -5px 5px 5px rgb(224, 160, 230);
+    color: rgb(206, 173, 236);
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+    text-shadow: -3px 3px 3px rgb(33, 33, 202);
+    color: rgb(187, 216, 241);
+}
+audio{
+    align-content: center;
+    width: 300px;
+    height: 50px;
+}
+pre{
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+hr{
+    border: 1px solid rgb(180, 40, 40);
+}
+.container{
+    background-image: url(gwen&miles.png);
+    background-size: auto;
+}
+h3{
+    color: rgb(94, 38, 167);
+    text-shadow: -5px 5px 5px rgb(118, 118, 211);
+}
